@@ -1,0 +1,9 @@
+org\cap\bankapp\test\BankAppTestCases.class
+org\cap\test\bankapp\LoginCategory.class
+org\cap\test\bankapp\SampleTestCase.class
+org\cap\test\bankapp\BankAppMocitoTestCase.class
+org\cap\test\bankapp\BankAppTestCase.class
+org\cap\test\bankapp\MyCategory.class
+org\cap\test\bankapp\ParameterizedTestCase.class
+org\cap\test\bankapp\BankAppSuite.class
+org\cap\test\bankapp\ReportCategory.class
